@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+someText in B.txt--art branch
+=======
+some Text in B.txt--main branch
+>>>>>>> main

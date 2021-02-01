@@ -1,0 +1,75 @@
+[33mcommit 3afe406f736f0784dc5375a5b206a0443d4e0b01[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: katerynadanko21 <katerynadanko21@gmail.com>
+Date:   Sun Jan 10 12:20:35 2021 +0200
+
+    Added test.txt
+
+[33mcommit e7db586e801c7d99052cb9f502a9ad6f5486564f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mkateryna-danko-first-branch[m[33m)[m
+Author: Kateryna Danko <smaz1981kate@gmail.com>
+Date:   Tue Dec 22 23:47:55 2020 +0200
+
+    I addad HelloProgramm
+
+[33mcommit ab1622f1c7d2a9d2bc9594c055a52c11393dacfb[m
+Author: Kateryna Danko <smaz1981kate@gmail.com>
+Date:   Tue Dec 22 23:42:45 2020 +0200
+
+    I added out pacage & src pacage
+
+[33mcommit 51473f0ba3dd531106731e2663783f50a4d19357[m
+Merge: 60657ff 6f54918
+Author: Kateryna Danko <smaz1981kate@gmail.com>
+Date:   Tue Dec 22 20:51:22 2020 +0200
+
+    Merge branch 'main' of https://github.com/rubfan/java_kiev_obl into main
+
+[33mcommit 60657ff7a390943343d4f74a350aec0492c6bc60[m
+Author: Kateryna Danko <smaz1981kate@gmail.com>
+Date:   Tue Dec 22 19:53:24 2020 +0200
+
+    I added weight
+
+[33mcommit ddd9a5b2d2141061d64a9f42694e98937cf7053c[m
+Author: Kateryna Danko <smaz1981kate@gmail.com>
+Date:   Tue Dec 22 19:08:17 2020 +0200
+
+    I have added info file
+
+[33mcommit b88e458cbfa91da22b5b2c8b32c9060e6d6b040c[m
+Author: Kateryna Danko <smaz1981kate@gmail.com>
+Date:   Tue Dec 22 18:50:39 2020 +0200
+
+    My first commit in Git Bash
+
+[33mcommit 6f54918a06f6b0a9b2571ef5a54cec03dedc5775[m[33m ([m[1;31mruslan/main[m[33m)[m
+Merge: 9707137 f8050b7
+Author: rubfan <rubfan@gmail.com>
+Date:   Sun Dec 20 04:31:14 2020 -0800
+
+    Merge pull request #1 from nikita-filianin/main
+    
+    Please check out my pull request
+
+[33mcommit f8050b7715a62e1dc1e728475c9ddaac3558ea2d[m
+Author: Nikita <nikita.filianin94@gmail.com>
+Date:   Sun Dec 20 14:16:20 2020 +0200
+
+    Fixed weigth
+
+[33mcommit 9ce5f21d7ea933199be6c0c6b9e9fbb7bf13f58a[m
+Author: Nikita <nikita.filianin94@gmail.com>
+Date:   Sun Dec 20 13:40:52 2020 +0200
+
+    I have added some details to my first project
+
+[33mcommit 96ed363367d783be0ce902287a69bb1c5d6acfd0[m
+Author: Nikita <nikita.filianin94@gmail.com>
+Date:   Sun Dec 20 13:28:04 2020 +0200
+
+    This is my first java program
+
+[33mcommit 97071377d0daeea726e1e234b8d4a39a0a448157[m
+Author: rubfan <rubfan@gmail.com>
+Date:   Sun Dec 20 01:24:06 2020 -0800
+
+    Initial commit

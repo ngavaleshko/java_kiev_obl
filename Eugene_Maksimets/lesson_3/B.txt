@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+BBBB
+B1B1
+=======
+BBBB
+B1B1
+>>>>>>> main

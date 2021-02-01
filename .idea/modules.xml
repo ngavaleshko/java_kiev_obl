@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlexVojjtenko/AlexVojjtenko.iml" filepath="$PROJECT_DIR$/AlexVojjtenko/AlexVojjtenko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anton.konovalenko/anton.konovalenko.iml" filepath="$PROJECT_DIR$/anton.konovalenko/anton.konovalenko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dima.bohdanovych/dima.bohdanovych.iml" filepath="$PROJECT_DIR$/dima.bohdanovych/dima.bohdanovych.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_kiev_obl.iml" filepath="$PROJECT_DIR$/java_kiev_obl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kateryna.danko/kateryna.danko.iml" filepath="$PROJECT_DIR$/kateryna.danko/kateryna.danko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kateryna.danko/lesson_2/lesson_2.iml" filepath="$PROJECT_DIR$/kateryna.danko/lesson_2/lesson_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mikhail,zhylin/mikhail,zhylin.iml" filepath="$PROJECT_DIR$/mikhail,zhylin/mikhail,zhylin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/natalia.gavaleshko/natalia.gavaleshko.iml" filepath="$PROJECT_DIR$/natalia.gavaleshko/natalia.gavaleshko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serhii.berdychevskyi/serhii.berdychevskyi.iml" filepath="$PROJECT_DIR$/serhii.berdychevskyi/serhii.berdychevskyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suk.denys/suk.denys.iml" filepath="$PROJECT_DIR$/suk.denys/suk.denys.iml" />
+    </modules>
+  </component>
+</project>
