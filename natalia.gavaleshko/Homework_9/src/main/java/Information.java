@@ -2,9 +2,9 @@ import java.util.*;
 
 public class Information {
 
-    List nicknames;
-    Set emails;
-    Map db;
+   private List nicknames;
+    private Set emails;
+    private  Map db;
 
     public Information(ArrayList<String> nicknames, HashSet<String> emails) {
         this.nicknames = nicknames;
