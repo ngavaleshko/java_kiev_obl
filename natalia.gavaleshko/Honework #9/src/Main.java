@@ -48,15 +48,13 @@ public class Main {
     }
 
     private static boolean isAccountIdValid(String accountId) {
-        System.out.println("Enter pls some accountId:");
-        while (true) {
             try {
                 accountIdChecker(accountId);
                 return false;
             } catch (WrongFieldException e) {
-                System.out.println("Enter accountId again");
+                System.out.println("Invalid accountId, lengths should be 10");
             }
-        }
+        return true;
     }
 }
 
