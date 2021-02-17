@@ -1,7 +1,5 @@
 package utils;
 
-import java.sql.SQLOutput;
-
 public class DataChecker {
     public static boolean isPhoneCorrect(String pho) {
         boolean result = pho.matches("^[0-9\\+380]{13}$");

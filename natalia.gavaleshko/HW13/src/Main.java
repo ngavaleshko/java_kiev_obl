@@ -12,7 +12,6 @@ public class Main {
         String b = "  qwWErvt5y     ";
         System.out.println(StringHelper.arrayToString(b, arr));
 
-
         String validPhone = "+380630111477";
         String inValidPhone = "384477";
         DataChecker.isPhoneCorrect(validPhone);

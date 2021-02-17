@@ -17,7 +17,6 @@ public class StringHelper {
         } else {
             t = string.toUpperCase().trim() + " " + b.toLowerCase().trim();
         }
-
         System.out.println("t = " + t);
 
         return (t.length()%2==0)? t.substring(t.length()/2 - 1,t.length()/2+1): t.substring(t.length()/2,t.length()/2+1);
