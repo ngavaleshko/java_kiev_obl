@@ -6,7 +6,7 @@ public class StringHelper {
 
     public static String arrayToString(String string, char[] args) throws StringFormatException {
         String b;
-        String t;
+        String str;
         if (args == null || args.length == 0) {
             throw new NullPointerException("Error. Expected not null");
         } else {
@@ -15,11 +15,11 @@ public class StringHelper {
         if (string.replace(" ", "").isEmpty() || b.replace(" ", "").isEmpty()) {
             throw new StringFormatException("Error. Expected not null");
         } else {
-            t = string.toUpperCase().trim() + " " + b.toLowerCase().trim();
+            str = string.toUpperCase().trim() + " " + b.toLowerCase().trim();
         }
-        System.out.println("t = " + t);
+        System.out.println("t = " + str);
 
-        return (t.length()%2==0)? t.substring(t.length()/2 - 1,t.length()/2+1): t.substring(t.length()/2,t.length()/2+1);
+        return (str.length()%2==0)? str.substring(str.length()/2 - 1,str.length()/2+1): str.substring(str.length()/2,str.length()/2+1);
     }
 
 }
